@@ -1,0 +1,17 @@
+{
+  "title": "虚构订单字段示例",
+  "disclaimer": "全部订单、日期、价格和安排均为虚构测试，不可用于真实出行。",
+  "origin": "上海",
+  "destinations": ["曼谷"],
+  "duration": 3,
+  "days": [
+    {"city": "曼谷", "previewTitle": "抵达与安顿", "previewSummary": "虚构示例：先安顿行李，后续活动待补充。", "previewIcon": "plane"},
+    {"city": "曼谷", "previewTitle": "活动待补充", "previewSummary": "具体活动仍待用户补充，不表示已预约。", "previewIcon": "route"},
+    {"city": "曼谷", "previewTitle": "返程衔接", "previewSummary": "返程班次未提供，机场与出发时刻待补充。", "previewIcon": "plane"}
+  ],
+  "transports": [{"id": "example-flight", "mode": "飞机", "from": "上海", "to": "曼谷", "status": "虚构测试 · 已确认", "bookingState": "confirmed", "synthetic": true, "date": "2030-06-01", "departure": "09:20", "arrival": "13:10", "timezone": "Asia/Shanghai", "arrivalTimezone": "Asia/Bangkok", "carrier": "示例航司", "number": "TEST-001", "departurePlace": "出发机场待补充", "arrivalPlace": "到达机场待补充", "baggage": "真实行李规则待提供"}],
+  "bookings": [{"id": "example-stay", "name": "示例酒店（虚构）", "city": "曼谷", "nights": [1, 2], "address": "虚构地址，不可导航", "status": "虚构测试 · 待付款", "bookingState": "pending_payment", "synthetic": true, "roomType": "示例双床房", "rooms": 1, "guests": 2, "price": "1800（虚构）", "currency": "THB", "cancellation": "真实退改规则待提供"}],
+  "tickets": [{"id": "example-ticket", "title": "活动预约示例（虚构）", "status": "时间未定", "bookingState": "planned", "synthetic": true, "city": "曼谷", "quantity": 2}],
+  "groundOrders": [{"id": "example-pickup", "title": "机场接送示例（虚构）", "status": "待订", "bookingState": "planned", "synthetic": true, "pickup": "集合点待补充"}],
+  "meeting": {"time": "待补充", "place": "集合点待确认", "note": "确认真实班次后再填写。"}
+}

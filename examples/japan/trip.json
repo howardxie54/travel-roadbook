@@ -1,0 +1,1127 @@
+{
+  "title": "日本七日旅行",
+  "displayTitle": "沿着铁轨，\n去日本。",
+  "visualLine": "寺社、富士与海风",
+  "themeLabel": "JAPAN / 07 DAYS · 日本旅行路书",
+  "subtitle": "从大阪的热闹，到京都的青苔；\n越过富士山脚，再把海风带进东京。",
+  "origin": "出发地待补充",
+  "duration": 7,
+  "country": "JP",
+  "timezone": "Asia/Tokyo",
+  "dates": null,
+  "contentVersion": 1,
+  "styleVersion": 2,
+  "theme": {
+    "direction": "japan-editorial",
+    "large": false
+  },
+  "days": [
+    {
+      "city": "大阪",
+      "overnightCity": "大阪",
+      "previewTitle": "落地，进入电影世界",
+      "previewSummary": "从关西机场抵达USJ，留一整天给乐园；夜里回到难波安顿。",
+      "previewIcon": "plane",
+      "focus": "先处理行李，再进入USJ",
+      "summary": "8:00机场 → 10:00–20:00 USJ → 20:30回酒店。时刻沿用原计划，入境与巴士衔接仍需验证。",
+      "alert": "衔接待核实｜8:00抵达T2不等于8:00能上车；以完整时刻表与入境耗时为准。任天堂区域没有核实到固定8点／12点放票规则。",
+      "events": [
+        {
+          "time": "08:00",
+          "title": "关西机场T2 → USJ",
+          "detail": "用户原计划：乘直达机场大巴，约70分钟。核实后：路线存在，但班次按航站楼变化；先确认可乘班次、候车点与是否需转到T1。原文“1楼D门／D售票区”未核实，不能直接套用在T2。入境、取行李、等车均另留时间。",
+          "status": "用户原计划",
+          "place": "Kansai International Airport Terminal 2",
+          "city": "泉佐野",
+          "id": "jp-day-1-event-1"
+        },
+        {
+          "time": "10:00–20:00",
+          "title": "Universal Studios Japan",
+          "detail": "先寄存行李，再入园游玩。原文储物柜500–1500日元作为待复核参考，不保证大件柜可用。提前安装官方App并录入门票；任天堂区域按当天公告领取整理券／抽选券，或使用含入场确约的有效产品。能量手环互动在对应区域内进行。园区营业时间需按日期确认。",
+          "status": "用户原计划",
+          "place": "Universal Studios Japan",
+          "city": "大阪",
+          "id": "jp-day-1-event-2"
+        },
+        {
+          "time": "20:30",
+          "title": "回难波，办理入住",
+          "detail": "原计划从JR环球城站回难波。通常需要换乘，不能把“环球城→难波”当作一班直达；到站后再按酒店具体地址选出口。住宿名称与已订状态待补充。",
+          "status": "用户原计划",
+          "place": "大阪難波駅",
+          "city": "大阪",
+          "id": "jp-day-1-event-3"
+        }
+      ],
+      "food": [
+        {
+          "image": "takoyaki",
+          "imageType": "原创矢量菜品示意",
+          "kind": "行程备选 · 非预订",
+          "title": "一份热乎的章鱼烧",
+          "desc": "难波地区备选：わなか千日前本店。适合回到难波后仍有体力时安排；不能保证20:30之后营业，不为夜宵赶路。",
+          "city": "大阪",
+          "shop": "たこ焼道楽わなか 千日前本店",
+          "address": "",
+          "shopUrl": "https://takoyaki-wanaka.com/",
+          "shopLinkLabel": "官方资料",
+          "checkedAt": "2026-10-01",
+          "xhs": "日本 大阪 たこ焼道楽わなか 千日前本店",
+          "mapQuery": "たこ焼道楽わなか 千日前本店"
+        }
+      ],
+      "foodNote": "园内午餐跟随游玩节奏；晚餐先检查营业，再决定是否去难波小吃店。",
+      "id": "jp-day-1",
+      "number": 1,
+      "status": "用户原计划 · 待落实"
+    },
+    {
+      "city": "奈良",
+      "navigationCity": "奈良",
+      "overnightCity": "大阪",
+      "previewTitle": "鹿群、古寺与森林",
+      "previewSummary": "近铁往返奈良；步行串起公园、东大寺与春日大社，晚间仍住大阪。",
+      "previewIcon": "nature",
+      "focus": "轻装往返奈良，晚上回大阪",
+      "summary": "8:00难波出发，9:00–17:00奈良步行，17:30返程。第二晚仍是难波。",
+      "alert": "已修正｜应查近铁难波／奈良线，不是“近铁京都线”。东大寺个人成人800日元；普通大学生没有凭学生证半价的规则。末班车需查当日时刻表。",
+      "events": [
+        {
+          "time": "08:00",
+          "title": "大阪难波 → 近铁奈良",
+          "detail": "乘近铁难波／奈良线，确认列车终点“近铁奈良”。普通、急行与快速急行按实际停站与车次选择；若选特急需另核票券。原文“自由席随便坐”和“JR一定更贵”不作为通用结论。",
+          "status": "用户原计划",
+          "place": "近鉄奈良駅",
+          "city": "奈良",
+          "id": "jp-day-2-event-1"
+        },
+        {
+          "time": "09:00–17:00 · 原窗口",
+          "title": "奈良公园 · 喂鹿散步",
+          "detail": "当天三个景点共用原计划9:00–17:00窗口，未指定各自到达时刻。仅用正规鹿仙贝喂鹿，塑料袋、外带食物和衣物收好，不逗弄或追逐。",
+          "status": "用户原计划",
+          "place": "奈良公園",
+          "city": "奈良",
+          "id": "jp-day-2-event-2"
+        },
+        {
+          "time": "日间 · 原窗口",
+          "title": "东大寺 · 大仏殿",
+          "detail": "从奈良公园继续参拜。当前个人成人800日元；普通大学生没有学生证半价规则。具体参拜时刻与开放时间须按出行日期复核。",
+          "status": "用户原计划",
+          "place": "東大寺",
+          "city": "奈良",
+          "id": "jp-day-2-event-3"
+        },
+        {
+          "time": "日间 · 原窗口",
+          "title": "春日大社",
+          "detail": "保留原计划的春日大社，步行与休息按体力调整。具体入口、开放时段和是否参观收费区域在出发前确认。",
+          "status": "用户原计划",
+          "place": "春日大社",
+          "city": "奈良",
+          "id": "jp-day-2-event-4"
+        },
+        {
+          "time": "17:30",
+          "title": "近铁返大阪",
+          "detail": "沿用原计划17:30返程，具体车次待选；原文“末班22:00”没有日期依据，不能保证。回大阪入住第二晚难波酒店。",
+          "status": "用户原计划",
+          "place": "近鉄奈良駅",
+          "city": "奈良",
+          "id": "jp-day-2-event-5"
+        }
+      ],
+      "food": [
+        {
+          "image": "sushi",
+          "imageType": "原创矢量菜品示意",
+          "kind": "行程备选 · 非预订",
+          "title": "柿叶包着的奈良风味",
+          "desc": "たなかなら本店在近铁奈良站前，可在出发散步前或返程时作为备选。官方列有柿叶寿司与茶屋；餐饮营业和带走保鲜要求请出发前复核。",
+          "city": "奈良",
+          "shop": "柿の葉すし本舗たなか なら本店",
+          "address": "奈良市東向中町5番地2",
+          "shopUrl": "https://www.kakinohasushi.co.jp/shop/nara/",
+          "shopLinkLabel": "官方资料",
+          "checkedAt": "2026-10-01",
+          "xhs": "日本 奈良 柿の葉すし本舗たなか なら本店",
+          "mapQuery": "柿の葉すし本舗たなか なら本店"
+        }
+      ],
+      "foodNote": "不在鹿群旁打开食物；如买外带寿司，按店铺要求保存。",
+      "id": "jp-day-2",
+      "number": 2,
+      "status": "用户原计划 · 待落实"
+    },
+    {
+      "city": "京都",
+      "overnightCity": "京都",
+      "previewTitle": "山林青苔，暮色古都",
+      "previewSummary": "上午大原三千院，下午清水寺、祇园与伏见稻荷；这一天需要取舍。",
+      "previewIcon": "landmark",
+      "focus": "三千院与市区景点，要留取舍空间",
+      "summary": "7:00大阪出发 → 9:00–12:00三千院 → 13:00–18:00京都市区。保留原计划，但不视为已验证可全部完成。",
+      "alert": "节奏风险｜大原在京都北部，下午三个市区景点还包含较大移动。建议清水寺＋祇园优先，伏见稻荷作为可选；这是建议，没有替你删除原计划。",
+      "events": [
+        {
+          "time": "07:00",
+          "title": "大阪 → 京都，先处理行李",
+          "detail": "建议从难波衔接JR大阪站，再乘JR京都线新快速；不是从JR难波站直接乘“快速急行”。到京都后先寄存行李／联系酒店。京都站前17路大原方向站点需核对，不能认准八条口就认为是所需巴士站。",
+          "status": "用户原计划",
+          "place": "京都駅",
+          "city": "京都",
+          "id": "jp-day-3-event-1"
+        },
+        {
+          "time": "09:00–12:00",
+          "title": "大原 · 三千院",
+          "detail": "京都站前17路可到大原，接步行到寺院。原文“17／18路都直达”“1小时1班”“车程1小时”没有作为固定规则写入；请查出行日平假日时刻表并留回市区时间。庭园慢慢逛，离开时间随返程班次安排。",
+          "status": "用户原计划",
+          "place": "三千院",
+          "city": "京都",
+          "id": "jp-day-3-event-2"
+        },
+        {
+          "time": "13:00–18:00 · 原窗口",
+          "title": "清水寺",
+          "detail": "保留原计划下午窗口。上午安排三千院，因此不能同时照做“10点前冲清水寺”的Tips。建议市区先看清水寺，再接祇园；具体抵达时刻尚未验证。",
+          "status": "用户原计划",
+          "place": "清水寺",
+          "city": "京都",
+          "id": "jp-day-3-event-3"
+        },
+        {
+          "time": "下午 · 原窗口",
+          "title": "祇园",
+          "detail": "保留原计划祇园，与清水寺作为市区优先组合是助手建议。寺院参拜、移动、用餐均须留时间；遵守居民与商户的拍摄要求。",
+          "status": "用户原计划",
+          "place": "祇園",
+          "city": "京都",
+          "id": "jp-day-3-event-4"
+        },
+        {
+          "time": "下午 · 原窗口",
+          "title": "伏见稻荷大社 · 按体力取舍",
+          "detail": "景点来自原计划；将其作为可选是助手建议，未删除。核对从市区转乘和剩余体力，千本鸟居可量力往上走，不承诺同一天全部完成。",
+          "status": "用户原计划",
+          "place": "伏見稲荷大社",
+          "city": "京都",
+          "id": "jp-day-3-event-5"
+        },
+        {
+          "time": "晚上",
+          "title": "京都站南侧入住",
+          "detail": "原计划住京都站南酒店；仅区域已知，名称、地址、是否已订都待补充。翌日从京都站出发，先确认行李取放与车站入口。",
+          "status": "用户原计划",
+          "id": "jp-day-3-event-6"
+        }
+      ],
+      "food": [
+        {
+          "image": "noodles",
+          "imageType": "原创矢量菜品示意",
+          "kind": "行程备选 · 非预订",
+          "title": "祇园附近，来碗鲱鱼荞麦面",
+          "desc": "总本家松叶本店位于四条大桥东侧，作为祇园周边备选。适合市区游览期间插入正餐；是否顺路仍取决于最终景点顺序，不保证午后到店就有座。",
+          "city": "京都",
+          "shop": "総本家にしんそば 松葉 本店",
+          "address": "京都市東山区川端町192",
+          "shopUrl": "https://www.sobamatsuba.co.jp/index.html",
+          "shopLinkLabel": "官方资料",
+          "checkedAt": "2026-10-01",
+          "xhs": "日本 京都 総本家にしんそば 松葉 本店",
+          "mapQuery": "総本家にしんそば 松葉 本店"
+        }
+      ],
+      "foodNote": "三千院到市区的移动不可省略；不要把午餐塞进转乘缓冲。",
+      "id": "jp-day-3",
+      "number": 3,
+      "status": "用户原计划 · 待落实"
+    },
+    {
+      "city": "京都 → 河口湖",
+      "navigationCity": "河口湖",
+      "overnightCity": "河口湖",
+      "previewTitle": "乘着新干线，去看富士",
+      "previewSummary": "京都经三岛转巴士到河口湖；下午湖边散步，能否见山交给天气。",
+      "previewIcon": "train",
+      "focus": "买到停三岛的列车，留足换乘",
+      "summary": "上午京都→三岛→河口湖，下午至傍晚看湖与富士山，第四晚住河口湖地区。",
+      "alert": "关键修正｜Nozomi不停三岛。选择停三岛的Hikari或Kodama／合理换乘；巴士完整现行表标南口，车程约80–90分钟，建议预约。",
+      "events": [
+        {
+          "time": "上午",
+          "title": "京都 → 三岛站",
+          "detail": "不能按原文“希望号2小时直达三岛”买票：Nozomi不停三岛。用官方查询选择停三岛的Hikari／Kodama，或明确换乘的组合，核对总时长与座位产品。尚无旅行日期，不生成具体车次与票价。",
+          "status": "用户原计划",
+          "place": "京都駅",
+          "city": "京都",
+          "id": "jp-day-4-event-1"
+        },
+        {
+          "time": "上午／中午",
+          "title": "三岛 → 河口湖",
+          "detail": "完整现行官方表标三岛站南口，典型班次约80–90分钟。提前预约可减少窗口排队；留出新干线出站、到站口与候车时间。原文50分钟不能当作此段衔接依据。不同平台出现北口旧资料，最终以购票确认与当日站牌为准。",
+          "status": "用户原计划",
+          "place": "三島駅",
+          "city": "三岛",
+          "id": "jp-day-4-event-2"
+        },
+        {
+          "time": "下午–傍晚",
+          "title": "河口湖边，等一眼富士山",
+          "detail": "保留看富士山与倒影的计划；以云量、能见度和实时画面决定湖边活动。原文“全年仅1/3无云”没有核实，不显示为统计事实。阴天也可保留湖边散步或休息，不替你取消酒店与交通。具体观景点待选。",
+          "status": "用户原计划",
+          "place": "河口湖",
+          "city": "河口湖",
+          "id": "jp-day-4-event-3"
+        },
+        {
+          "time": "晚上",
+          "title": "河口湖地区 · 东横INN",
+          "detail": "原文仅给出品牌，没有分店与订单。先确认真实酒店是否在河口湖地区、接驳安排与入住时间，暂不提供可能误选分店的导航。",
+          "status": "用户原计划",
+          "id": "jp-day-4-event-4"
+        }
+      ],
+      "food": [
+        {
+          "image": "noodles",
+          "imageType": "原创矢量菜品示意",
+          "kind": "行程备选 · 非预订",
+          "title": "富士山脚下，一锅ほうとう",
+          "desc": "河口湖町官方美食指南列有ほうとう不動駅前店，可作到站或离站时的餐饮备选。宽面与热汤适合湖边活动后用餐；图片只是菜品示意，不是餐厅实拍。",
+          "city": "河口湖",
+          "shop": "ほうとう不動 河口湖駅前店",
+          "address": "",
+          "shopUrl": "https://www.town.fujikawaguchiko.lg.jp/upload/file/kanko/gourmet%20guide2025_J.pdf",
+          "shopLinkLabel": "官方资料",
+          "checkedAt": "2026-10-01",
+          "xhs": "日本 河口湖 ほうとう不動 河口湖駅前店",
+          "mapQuery": "ほうとう不動 河口湖駅前店"
+        }
+      ],
+      "foodNote": "观景受天气影响，正餐与休息可作为雨天备选；不凭天气预报自动取消预订。",
+      "id": "jp-day-4",
+      "number": 4,
+      "status": "用户原计划 · 待落实"
+    },
+    {
+      "city": "河口湖 → 镰仓 → 东京",
+      "navigationCity": "镰仓",
+      "overnightCity": "东京",
+      "previewTitle": "从山脚，去湘南海岸",
+      "previewSummary": "转移日串联河口湖与镰仓；江之电、海岸和寺社保留，晚间入住东京。",
+      "previewIcon": "coast",
+      "focus": "先确定转乘与行李，再选镰仓重点",
+      "summary": "早上河口湖出发 → 镰仓高校前与七里滨 → 大佛、八幡宫 → 晚间东京。3.5小时与全部完成尚未验证。",
+      "alert": "高强度转移日｜富士山站不在JR东海道线上，不能按原文直接转藤泽。先选路线、再定可玩的窗口；大佛需查闭门时间，不能默认傍晚到达仍能参观。",
+      "events": [
+        {
+          "time": "早上",
+          "title": "河口湖 → 镰仓／藤泽方向",
+          "detail": "起点按前一晚河口湖地区安排，具体车站取决于酒店。原文“富士山站→藤泽站乘JR东海道线”缺少关键转乘。经三岛或其他路线只是待比较方案，整体3.5小时未验证。先决定巴士／铁路路线和行李方案。",
+          "status": "用户原计划",
+          "id": "jp-day-5-event-1"
+        },
+        {
+          "time": "白天 · 原计划",
+          "title": "江之电 · 镰仓高校前",
+          "detail": "根据从藤泽或镰仓进入的方向排顺序。当前江之电成人一日券800日元，是否划算取决于实际乘坐次数；售卖规则按日期复核。平交道拍照不进入轨道或影响通行。",
+          "status": "用户原计划",
+          "place": "鎌倉高校前駅",
+          "city": "镰仓",
+          "id": "jp-day-5-event-2"
+        },
+        {
+          "time": "白天 · 原计划",
+          "title": "七里滨 · 湘南海岸",
+          "detail": "保留原计划海岸散步。具体先后与停留时间按到达窗口决定；给前往长谷／镰仓的交通留余量。",
+          "status": "用户原计划",
+          "place": "七里ヶ浜",
+          "city": "镰仓",
+          "id": "jp-day-5-event-3"
+        },
+        {
+          "time": "下午／傍晚 · 原计划",
+          "title": "镰仓大佛 · 高德院",
+          "detail": "保留原计划，建议优先赶在闭门前参拜。当前未提供日期与到达时刻，不承诺傍晚一定能参观；若转移延迟，在海岸与寺社之间取舍。",
+          "status": "用户原计划",
+          "place": "高徳院",
+          "city": "镰仓",
+          "id": "jp-day-5-event-4"
+        },
+        {
+          "time": "下午／傍晚 · 原计划",
+          "title": "鹤冈八幡宫",
+          "detail": "保留原计划八幡宫，与海岸和大佛按时间取舍。拜殿、院内设施开放时段可能不同，最终按出行日官方信息确认。",
+          "status": "用户原计划",
+          "place": "鶴岡八幡宮",
+          "city": "镰仓",
+          "id": "jp-day-5-event-5"
+        },
+        {
+          "time": "晚上",
+          "title": "镰仓 → 东京浅草",
+          "detail": "具体列车与换乘待选。原计划住东横INN浅草店，但仍需核实完整分店名称、地址与是否已订；不为了“先放东京酒店”而默认增加往返镰仓的大绕行。",
+          "status": "用户原计划",
+          "place": "鎌倉駅",
+          "city": "镰仓",
+          "id": "jp-day-5-event-6"
+        }
+      ],
+      "food": [
+        {
+          "image": "rice",
+          "imageType": "原创矢量菜品示意",
+          "kind": "行程备选 · 非预订",
+          "title": "湘南的味道：釜扬吻仔鱼饭",
+          "desc": "镰仓市官方资料确认吻仔鱼是地方名产。本次只推荐菜品，具体店铺待选择；熟制釜扬版本可作为备选，生吻仔鱼供应受季节与渔获影响，不保证有货。",
+          "city": "镰仓",
+          "shop": "",
+          "address": "",
+          "shopUrl": "https://www.city.kamakura.kanagawa.jp/rekibun-meisan.html",
+          "shopLinkLabel": "官方资料",
+          "checkedAt": "2026-10-01",
+          "xhs": "日本 镰仓 湘南的味道：釜扬吻仔鱼饭",
+          "mapQuery": ""
+        }
+      ],
+      "foodNote": "这天交通优先；选择到达地点附近的正餐，不为网红店跨城绕路。",
+      "id": "jp-day-5",
+      "number": 5,
+      "status": "用户原计划 · 待落实"
+    },
+    {
+      "city": "东京",
+      "navigationCity": "东京",
+      "overnightCity": "东京",
+      "previewTitle": "浅草早晨，涩谷夜色",
+      "previewSummary": "浅草、银座、新宿、涩谷都在原计划中；购物按区域集中，减少来回。",
+      "previewIcon": "city",
+      "focus": "购物分区，给浅草与涩谷留时间",
+      "summary": "浅草寺与仲见世、银座、MUJI、新宿药妆、涩谷。没有固定钟点，展示建议分区而非伪造时刻。",
+      "alert": "已修正｜观十字路口的Starbucks是SHIBUYA TSUTAYA 2F，入口不要按Hikarie寻找。药妆价格与百货退税效率因商品、活动和日期而异。",
+      "events": [
+        {
+          "time": "上午 · 建议",
+          "title": "浅草寺 · 雷门与仲见世",
+          "detail": "从浅草住宿区域出发可先逛寺院与商店街；酒店具体分店尚未确认，步行时长待定。这个上午安排是按区域整理的建议，原文没有时间。",
+          "status": "助手建议 · 保留原景点",
+          "place": "浅草寺",
+          "city": "东京",
+          "id": "jp-day-6-event-1"
+        },
+        {
+          "time": "白天 · 待排",
+          "title": "银座购物 · MUJI与百货",
+          "detail": "保留奢侈品、MUJI与三越百货。按目标商品核价、退税政策和库存；“三越退税一定快”“专卖店不要买”不作为通用事实。购物清单和预算尚未提供。",
+          "status": "用户原计划",
+          "place": "銀座",
+          "city": "东京",
+          "id": "jp-day-6-event-2"
+        },
+        {
+          "time": "白天 · 待排",
+          "title": "新宿药妆 · 再比一次价",
+          "detail": "保留松本清与大国的比价思路；应比较同一规格、税后价格和优惠门槛，不承诺大国一定更便宜。和涩谷顺序按路线与营业时间调整。",
+          "status": "用户原计划",
+          "place": "新宿駅",
+          "city": "东京",
+          "id": "jp-day-6-event-3"
+        },
+        {
+          "time": "傍晚／夜间 · 建议",
+          "title": "涩谷十字路口",
+          "detail": "保留涩谷与观景咖啡店。官方公布的是SHIBUYA TSUTAYA 2F店；座位与拍照视野不保证，不能按Hikarie入口去找。遵守店内与交通规则。",
+          "status": "助手建议 · 地点资料已核实",
+          "place": "STARBUCKS COFFEE SHIBUYA TSUTAYA 2F",
+          "city": "东京",
+          "id": "jp-day-6-event-4"
+        }
+      ],
+      "food": [
+        {
+          "image": "tempura",
+          "imageType": "原创矢量菜品示意",
+          "kind": "行程备选 · 非预订",
+          "title": "浅草，一碗江户风味天丼",
+          "desc": "浅草商店联合会列有葵丸进，作为浅草游览期间的备选。店铺身份有官方资料支持，营业、菜单价格与是否需要预约仍应按出行日核对。",
+          "city": "东京",
+          "shop": "葵丸進",
+          "address": "",
+          "shopUrl": "https://asakusa-shoren.jp/stores/893/",
+          "shopLinkLabel": "官方资料",
+          "checkedAt": "2026-10-01",
+          "xhs": "日本 东京 葵丸進",
+          "mapQuery": "葵丸進"
+        }
+      ],
+      "foodNote": "上午浅草＋中段银座，再往新宿／涩谷，是建议分区；最终按购物需求定。",
+      "id": "jp-day-6",
+      "number": 6,
+      "status": "用户原计划 · 待落实"
+    },
+    {
+      "city": "东京 → 成田机场",
+      "navigationCity": "东京",
+      "overnightCity": "返程",
+      "previewTitle": "把最后半天，留给从容",
+      "previewSummary": "原计划12:00前往成田，16:15飞深圳；先确认航站楼，再安排出城。",
+      "previewIcon": "plane",
+      "focus": "16:15返程，以航空公司办理要求为准",
+      "summary": "12:00东京出发 → 成田机场 → 16:15飞深圳。起飞时刻来自原计划；日期、航司、航班号、航站楼未提供。",
+      "alert": "机场衔接待核实｜想提前3小时抵达，目标约13:15到机场；12:00出城是否充足取决于浅草出发点与交通。N’EX可线上或车站购票，并非只能官网。",
+      "events": [
+        {
+          "time": "上午 · 待排",
+          "title": "收拾行李，办理退房",
+          "detail": "保留返程日轻量节奏。酒店退房、寄存与取件时间待补充；不再塞远距离购物。护照、票券与随身物品出发前再次核对。",
+          "status": "用户原计划",
+          "id": "jp-day-7-event-1"
+        },
+        {
+          "time": "12:00",
+          "title": "东京 → 成田机场",
+          "detail": "原计划使用N’EX。它是指定席列车，可经官网或车站购票；从浅草出发还应比较可用的京成路线与接驳，暂未替你改交通方案。国际航班提前3小时到达是本次计划缓冲目标，办理截止以航司为准。",
+          "status": "用户原计划",
+          "place": "成田国際空港",
+          "city": "成田",
+          "id": "jp-day-7-event-2"
+        },
+        {
+          "time": "16:15",
+          "title": "起飞回深圳",
+          "detail": "时刻沿用用户原计划，按日本当地时间理解，仍需机票确认。原文T1来自购物Tips，不足以确认你的航班航站楼。充电宝／备用锂电池按航司规则随身携带，不能用泛化“锂电池都不能托运”代替完整行李要求。",
+          "status": "用户原计划",
+          "id": "jp-day-7-event-3"
+        }
+      ],
+      "food": [
+        {
+          "image": "rice",
+          "imageType": "原创矢量菜品示意",
+          "kind": "行程备选 · 非预订",
+          "title": "出城前吃好，不在机场赶饭",
+          "desc": "用住宿附近的早餐／简餐收尾，具体店铺待确认。优先保证退房、取行李与机场交通，不因为免税购物压缩办理缓冲。",
+          "city": "东京",
+          "shop": "",
+          "address": "",
+          "shopUrl": "",
+          "shopLinkLabel": "官方资料",
+          "checkedAt": "2026-10-01",
+          "xhs": "日本 东京 出城前吃好，不在机场赶饭",
+          "mapQuery": ""
+        }
+      ],
+      "foodNote": "成田T1商店大小与市区库存没有核实；需要的商品提前核价，不承诺机场更贵或更便宜。",
+      "id": "jp-day-7",
+      "number": 7,
+      "status": "用户原计划 · 待落实"
+    }
+  ],
+  "visualTheme": {
+    "palette": {
+      "bg": "#f7f4ed",
+      "surface": "#fffdf8",
+      "ink": "#202d3a",
+      "muted": "#586573",
+      "line": "#d9d9d2",
+      "accent": "#213f60",
+      "accent-soft": "#e9edf1"
+    },
+    "name": "铁轨、朱印与海风",
+    "basis": [
+      "主题是基于本次USJ、寺社、铁路、富士山与湘南海岸的设计推断，不定义日本唯一风格。",
+      "靛蓝组织交通与信息；朱红点出旅程重点；米白保留手记感。",
+      "原创矢量富士山与列车只是装饰，不用于地图定位。"
+    ],
+    "stylesheet": "japan.css"
+  },
+  "titleArt": "assets/japan-hero.svg",
+  "foodImages": {
+    "takoyaki": "assets/food-takoyaki.svg",
+    "sushi": "assets/food-sushi.svg",
+    "noodles": "assets/food-noodles.svg",
+    "rice": "assets/food-rice.svg",
+    "tempura": "assets/food-tempura.svg"
+  },
+  "bookings": [
+    {
+      "id": "jp-stay-1",
+      "name": "难波酒店（名称待补充）",
+      "city": "大阪",
+      "nights": [
+        1,
+        2
+      ],
+      "address": "具体地址待补充",
+      "bookingState": "planned",
+      "status": "原计划住宿 · 预订状态待确认",
+      "note": "第一、二晚留大阪。"
+    },
+    {
+      "id": "jp-stay-2",
+      "name": "京都站南酒店（名称待补充）",
+      "city": "京都",
+      "nights": [
+        3
+      ],
+      "address": "具体地址待补充",
+      "bookingState": "planned",
+      "status": "原计划住宿 · 预订状态待确认"
+    },
+    {
+      "id": "jp-stay-3",
+      "name": "东横INN（河口湖分店待确认）",
+      "city": "河口湖",
+      "nights": [
+        4
+      ],
+      "address": "分店与地址待补充",
+      "bookingState": "planned",
+      "status": "仅品牌已提供 · 不代表已订"
+    },
+    {
+      "id": "jp-stay-4",
+      "name": "东横INN浅草店（分店待确认）",
+      "city": "东京",
+      "nights": [
+        5,
+        6
+      ],
+      "address": "完整分店与地址待补充",
+      "bookingState": "planned",
+      "status": "原计划住宿 · 分店及预订待确认"
+    }
+  ],
+  "transports": [
+    {
+      "id": "jp-transport-1",
+      "mode": "car",
+      "from": "关西机场T2",
+      "to": "USJ",
+      "departure": "第1天 08:00起",
+      "arrival": "",
+      "timezone": "Asia/Tokyo",
+      "bookingState": "planned",
+      "status": "用户原计划 · 出票／预约未提供",
+      "note": "机场巴士；先核班次、航站楼与寄存衔接。",
+      "officialUrl": "https://www.kate.co.jp/timetable/detail/NU"
+    },
+    {
+      "id": "jp-transport-2",
+      "mode": "train",
+      "from": "大阪难波",
+      "to": "近铁奈良",
+      "departure": "第2天 08:00",
+      "arrival": "第2天 17:30返程",
+      "timezone": "Asia/Tokyo",
+      "bookingState": "planned",
+      "status": "用户原计划 · 出票／预约未提供",
+      "note": "近铁难波／奈良线，往返班次待选。",
+      "officialUrl": ""
+    },
+    {
+      "id": "jp-transport-3",
+      "mode": "train",
+      "from": "大阪",
+      "to": "京都",
+      "departure": "第3天 07:00起",
+      "arrival": "",
+      "timezone": "Asia/Tokyo",
+      "bookingState": "planned",
+      "status": "用户原计划 · 出票／预约未提供",
+      "note": "难波衔接大阪站，再查新快速。",
+      "officialUrl": "https://kyoto.travel/en/getting-to"
+    },
+    {
+      "id": "jp-transport-4",
+      "mode": "train",
+      "from": "京都",
+      "to": "三岛",
+      "departure": "第4天 上午",
+      "arrival": "",
+      "timezone": "Asia/Tokyo",
+      "bookingState": "planned",
+      "status": "用户原计划 · 出票／预约未提供",
+      "note": "选择停三岛的列车，Nozomi不停三岛。",
+      "officialUrl": "https://travel.jr-central.co.jp/plan/tokushu/shinkansen/station/"
+    },
+    {
+      "id": "jp-transport-5",
+      "mode": "car",
+      "from": "三岛",
+      "to": "河口湖",
+      "departure": "第4天 上午／中午",
+      "arrival": "",
+      "timezone": "Asia/Tokyo",
+      "bookingState": "planned",
+      "status": "用户原计划 · 出票／预约未提供",
+      "note": "完整现行表南口，约80–90分钟；推荐预约。",
+      "officialUrl": "https://www.fujikyucitybus.com/highwaybus/kawaguchiko.html"
+    },
+    {
+      "id": "jp-transport-6",
+      "mode": "unknown",
+      "from": "河口湖",
+      "to": "镰仓",
+      "departure": "第5天 早上",
+      "arrival": "",
+      "timezone": "Asia/Tokyo",
+      "bookingState": "planned",
+      "status": "用户原计划 · 出票／预约未提供",
+      "note": "具体巴士／铁路转乘待选，不采信直接JR东海道线与固定3.5小时。",
+      "officialUrl": ""
+    },
+    {
+      "id": "jp-transport-7",
+      "mode": "train",
+      "from": "镰仓",
+      "to": "东京",
+      "departure": "第5天 晚上",
+      "arrival": "",
+      "timezone": "Asia/Tokyo",
+      "bookingState": "planned",
+      "status": "用户原计划 · 出票／预约未提供",
+      "note": "具体车次与浅草酒店衔接待选。",
+      "officialUrl": ""
+    },
+    {
+      "id": "jp-transport-8",
+      "mode": "train",
+      "from": "东京",
+      "to": "成田机场",
+      "departure": "第7天 12:00",
+      "arrival": "",
+      "timezone": "Asia/Tokyo",
+      "bookingState": "planned",
+      "status": "用户原计划 · 出票／预约未提供",
+      "note": "原计划N’EX，浅草接驳与机场到达时刻待核实。",
+      "officialUrl": "https://www.jreast.co.jp/en/multi/nex/tickets/"
+    },
+    {
+      "id": "jp-transport-9",
+      "mode": "plane",
+      "from": "成田机场",
+      "to": "深圳",
+      "departure": "第7天 16:15",
+      "arrival": "",
+      "timezone": "Asia/Tokyo",
+      "bookingState": "planned",
+      "status": "用户原计划 · 出票／预约未提供",
+      "note": "日期／航司／航班号／航站楼／抵达时间未提供。",
+      "officialUrl": ""
+    }
+  ],
+  "tickets": [
+    {
+      "id": "jp-ticket-1",
+      "title": "USJ入园票",
+      "city": "大阪",
+      "date": "第1天 · 日期待补充",
+      "time": "10:00–20:00为原计划游玩窗口",
+      "bookingState": "planned",
+      "status": "是否购买待确认",
+      "officialUrl": "https://prd-origin.usj.co.jp/ticket/search-result.html"
+    },
+    {
+      "id": "jp-ticket-2",
+      "title": "任天堂区域入场",
+      "city": "大阪",
+      "bookingState": "unknown",
+      "status": "票券类型与App当天领取规则待确认",
+      "note": "不生成虚假的8点／12点固定抢票倒计时。"
+    },
+    {
+      "id": "jp-ticket-3",
+      "title": "东大寺大仏殿",
+      "city": "奈良",
+      "date": "第2天",
+      "bookingState": "planned",
+      "status": "尚未提供购票信息",
+      "note": "当前公开成人票800日元，是参考价格而非已付金额。",
+      "officialUrl": "https://www.todaiji.or.jp/information/haikan/"
+    },
+    {
+      "id": "jp-ticket-4",
+      "title": "江之电1日券 · 可选",
+      "city": "镰仓",
+      "date": "第5天",
+      "bookingState": "planned",
+      "status": "按乘坐次数决定，尚未购买",
+      "note": "当前成人800日元；出行日售卖规则与是否划算待核。",
+      "officialUrl": "https://www.enoden.co.jp/tourism/ticket/noriorikun/"
+    }
+  ],
+  "countdowns": [],
+  "conflicts": [
+    "第3天：上午三千院与“10点前先到清水寺”的Tips冲突，不能同时照做。",
+    "第5天：长距离转移、行李、大佛闭门时间与海岸游览需要取舍。"
+  ],
+  "pending": [
+    "补充旅行日期，按日本当地时间核对时刻表；目前保留第1–7天，不启动真实倒计时。",
+    "确认去程出发地、航班与抵达T2时刻；返程16:15航班的日期、航司与航站楼。",
+    "补全四段住宿的真实酒店名称、分店、地址与预订状态；不要把品牌当成已订酒店。",
+    "核对第1天机场巴士与行李寄存，确认USJ入园票和任天堂区域入场方式。",
+    "选择第4天停三岛的列车及河口湖巴士；留出换乘缓冲。",
+    "选择第5天转乘与行李方案；按到达时刻决定镰仓可玩的范围。",
+    "核对第7天浅草出城路线，争取约13:15抵达机场并服从航司办理截止。"
+  ],
+  "tips": [
+    {
+      "title": "交通卡，管好适用范围",
+      "detail": "Suica／ICOCA选择按手机和使用范围确认；新干线、特急和部分巴士需要另买票，不能认为一张IC卡覆盖所有交通。"
+    },
+    {
+      "title": "USJ：以当天App与票券为准",
+      "detail": "提前准备官方App与门票。固定“8点／12点放票”的说法未经证实；整理券、确约券与入园票不可混为一谈。"
+    },
+    {
+      "title": "天气备选，不等于取消行程",
+      "detail": "富士山看云量与实时画面。未核实的“全年1/3无云”不当作统计；阴天保留湖边散步与休息，不自动取消酒店。"
+    },
+    {
+      "title": "比价，要比较同一件商品",
+      "detail": "同规格、税后价格、优惠条件与库存一起比。药妆店、百货与机场没有统一“更便宜／退税更快”的保证。"
+    },
+    {
+      "title": "喂鹿与平交道，留好距离",
+      "detail": "鹿仙贝以外的食物与塑料袋收好，不逗弄鹿群；镰仓拍摄不要进入轨道、车道或阻挡居民通行。"
+    },
+    {
+      "title": "把跨城日的行李先想好",
+      "detail": "第4、5天都在转移。寄存、托运或酒店收件须先核实可用性与到达时间，不凭空假设已有柜位或可当天送达。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "关西机场交通 · 南港／USJ线",
+      "url": "https://www.kate.co.jp/timetable/detail/NU",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "机场巴士随航站楼与班次而异，不能把70分钟当作全部衔接时间"
+      ]
+    },
+    {
+      "title": "USJ · 官方票务说明",
+      "url": "https://prd-origin.usj.co.jp/ticket/search-result.html",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "任天堂区域入场券类型与当天运营规则；未证实固定8点／12点放票"
+      ]
+    },
+    {
+      "title": "近铁 · 奈良线时刻表",
+      "url": "https://eki.kintetsu.co.jp/english/T5?d=1&dw=1&slCode=350-23",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "大阪难波与近铁奈良属于难波／奈良线行程"
+      ]
+    },
+    {
+      "title": "东大寺 · 拜观费用",
+      "url": "https://www.todaiji.or.jp/information/haikan/",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "大仏殿个人成人800日元；没有普通大学生半价规则"
+      ]
+    },
+    {
+      "title": "京都市旅游协会 · 到达京都",
+      "url": "https://kyoto.travel/en/getting-to",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "JR大阪站可乘新快速到京都；JR难波需另行衔接"
+      ]
+    },
+    {
+      "title": "京都巴士 · 京都站前",
+      "url": "https://www.kyotobus.jp/route/timetable/stop.html?stop_id=61_2",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "京都站前17路至大原；站口与平假日班次应按日期复核"
+      ]
+    },
+    {
+      "title": "三千院 · 官方资料",
+      "url": "https://www.sanzenin.or.jp/en/",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "大原三千院是京都北部寺院；设计意象参考庭园与山林"
+      ]
+    },
+    {
+      "title": "JR东海旅游 · 新干线停站",
+      "url": "https://travel.jr-central.co.jp/plan/tokushu/shinkansen/station/",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "Nozomi不在三岛停；Kodama或停三岛的Hikari可作为候选"
+      ]
+    },
+    {
+      "title": "富士急 · 三岛—河口湖",
+      "url": "https://www.fujikyucitybus.com/highwaybus/kawaguchiko.html",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "完整现行表标三岛南口，典型班次80至90分钟；推荐提前预约"
+      ]
+    },
+    {
+      "title": "江之电 · 一日券",
+      "url": "https://www.enoden.co.jp/tourism/ticket/noriorikun/",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "成人800日元；是否节省取决于乘坐次数，特定日期可能暂停销售"
+      ]
+    },
+    {
+      "title": "JR东日本 · 成田特快票务",
+      "url": "https://www.jreast.co.jp/en/multi/nex/tickets/",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "N’EX为指定席；官网与车站售票渠道均可购票"
+      ]
+    },
+    {
+      "title": "Starbucks · SHIBUYA TSUTAYA",
+      "url": "https://www.starbucks.co.jp/press_release/pr2024-5137.php",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "面向十字路口的TSUTAYA 2F店，不能从Hikarie入口寻找"
+      ]
+    },
+    {
+      "title": "わなか · 官方店铺",
+      "url": "https://takoyaki-wanaka.com/",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "大阪章鱼烧与千日前本店，作为难波地区备选"
+      ]
+    },
+    {
+      "title": "柿の葉すし本舗たなか · なら本店",
+      "url": "https://www.kakinohasushi.co.jp/shop/nara/",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "近铁奈良站前分店与柿叶寿司；不承诺出行日营业或寄存"
+      ]
+    },
+    {
+      "title": "总本家松叶 · 官方资料",
+      "url": "https://www.sobamatsuba.co.jp/index.html",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "京都东山区川端町192，鲱鱼荞麦面作为祇园附近备选"
+      ]
+    },
+    {
+      "title": "河口湖町 · 2025美食指南",
+      "url": "https://www.town.fujikawaguchiko.lg.jp/upload/file/kanko/gourmet%20guide2025_J.pdf",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "ほうとう不動河口湖站前店；站前餐饮备选"
+      ]
+    },
+    {
+      "title": "镰仓市 · 地方名产",
+      "url": "https://www.city.kamakura.kanagawa.jp/rekibun-meisan.html",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "吻仔鱼是地方名产，生食供应不能保证"
+      ]
+    },
+    {
+      "title": "浅草商店联合会 · 葵丸进",
+      "url": "https://asakusa-shoren.jp/stores/893/",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "浅草天妇罗店铺身份与官方网站"
+      ]
+    },
+    {
+      "title": "Natural Earth · 地理资料许可",
+      "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "内嵌10m陆地轮廓，公共领域；不代表实时街道地图"
+      ]
+    },
+    {
+      "title": "GeoNames · 坐标与许可",
+      "url": "https://download.geonames.org/export/dump/readme.txt",
+      "checkedAt": "2026-10-01",
+      "supports": [
+        "WGS84城市参考坐标，CC BY 4.0；不作酒店或机场入口"
+      ]
+    }
+  ],
+  "mapProvider": "google",
+  "mapPlaces": [],
+  "disclaimer": "公开演示案例 · 非已确认出行安排。日期、班次、住宿和门票未确认；参考资料查验于2026-10-01，出发前复核。插画为示意，地图连线表示旅行顺序。",
+  "geographicMap": {
+    "cities": [
+      {
+        "label": "大阪",
+        "lon": 135.50107,
+        "lat": 34.69379,
+        "country": "JP",
+        "role": "destination",
+        "source": "https://www.geonames.org/1853909/",
+        "sourceName": "Osaka",
+        "checkedAt": "2026-10-01"
+      },
+      {
+        "label": "奈良",
+        "lon": 135.80485,
+        "lat": 34.68505,
+        "country": "JP",
+        "role": "destination",
+        "source": "https://www.geonames.org/1855612/",
+        "sourceName": "Nara-shi",
+        "checkedAt": "2026-10-01"
+      },
+      {
+        "label": "京都",
+        "lon": 135.75385,
+        "lat": 35.02107,
+        "country": "JP",
+        "role": "destination",
+        "source": "https://www.geonames.org/1857910/",
+        "sourceName": "Kyoto",
+        "checkedAt": "2026-10-01"
+      },
+      {
+        "label": "三岛",
+        "lon": 138.91667,
+        "lat": 35.11667,
+        "country": "JP",
+        "role": "destination",
+        "source": "https://www.geonames.org/1856977/",
+        "sourceName": "Mishima",
+        "checkedAt": "2026-10-01"
+      },
+      {
+        "label": "河口湖",
+        "lon": 138.68832,
+        "lat": 35.48933,
+        "country": "JP",
+        "role": "destination",
+        "source": "https://www.geonames.org/7281819/",
+        "sourceName": "Fujikawaguchiko",
+        "checkedAt": "2026-10-01"
+      },
+      {
+        "label": "镰仓",
+        "lon": 139.54698,
+        "lat": 35.31085,
+        "country": "JP",
+        "role": "destination",
+        "source": "https://www.geonames.org/1860672/",
+        "sourceName": "Kamakura",
+        "checkedAt": "2026-10-01"
+      },
+      {
+        "label": "东京",
+        "lon": 139.69171,
+        "lat": 35.6895,
+        "country": "JP",
+        "role": "destination",
+        "source": "https://www.geonames.org/1850147/",
+        "sourceName": "Tokyo",
+        "checkedAt": "2026-10-01"
+      },
+      {
+        "label": "深圳",
+        "lon": 114.0683,
+        "lat": 22.54554,
+        "country": "CN",
+        "role": "exit",
+        "source": "https://www.geonames.org/1795565/",
+        "sourceName": "Shenzhen",
+        "checkedAt": "2026-10-01"
+      }
+    ],
+    "focusCountry": "JP",
+    "focusIndices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "focusLabel": "关西—富士山脚—关东",
+    "overviewLabel": "返程：东京 → 深圳",
+    "landAsset": "assets/land-10m.geojson",
+    "onlineTiles": false,
+    "focusBounds": [
+      134.9,
+      34.1,
+      140.3,
+      36.2
+    ]
+  },
+  "routeSegments": [
+    {
+      "from": "大阪",
+      "to": "奈良",
+      "mode": "train",
+      "source": "用户计划，第2天近铁往返",
+      "status": "计划"
+    },
+    {
+      "from": "奈良",
+      "to": "大阪",
+      "mode": "train",
+      "source": "用户计划，第2天返大阪",
+      "status": "计划"
+    },
+    {
+      "from": "大阪",
+      "to": "京都",
+      "mode": "train",
+      "source": "用户计划，第3天",
+      "status": "计划"
+    },
+    {
+      "from": "京都",
+      "to": "三岛",
+      "mode": "train",
+      "source": "用户计划，第4天；停站修正据JR东海",
+      "status": "班次待选"
+    },
+    {
+      "from": "三岛",
+      "to": "河口湖",
+      "mode": "car",
+      "source": "用户计划，第4天巴士",
+      "status": "班次待选"
+    },
+    {
+      "from": "河口湖",
+      "to": "镰仓",
+      "mode": "unknown",
+      "source": "用户计划，第5天，具体转乘不完整",
+      "status": "交通待确认"
+    },
+    {
+      "from": "镰仓",
+      "to": "东京",
+      "mode": "train",
+      "source": "用户计划，第5天晚间",
+      "status": "班次待选"
+    },
+    {
+      "from": "东京",
+      "to": "深圳",
+      "mode": "plane",
+      "source": "用户计划，第7天成田飞深圳；城市连线不代表机场坐标",
+      "status": "航班待确认"
+    }
+  ],
+  "testMode": true
+}

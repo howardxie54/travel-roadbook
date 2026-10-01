@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="580" viewBox="0 0 800 580">
+<defs><pattern id="paper" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".5" fill="#213f60" opacity=".12"/></pattern><clipPath id="clip"><rect x="30" y="25" width="740" height="530" rx="180"/></clipPath><linearGradient id="lake" x2="0" y2="1"><stop stop-color="#8dabb5"/><stop offset="1" stop-color="#d4ddd7"/></linearGradient></defs>
+<g clip-path="url(#clip)"><rect width="800" height="580" fill="#e9e6db"/><rect width="800" height="580" fill="url(#paper)"/><circle cx="590" cy="165" r="70" fill="#b64032"/>
+<path d="M0 380 225 253 365 367 508 274 800 360V580H0Z" fill="#d1d7d0"/>
+<path d="M154 393 407 122 694 393Z" fill="#213f60"/><path d="m350 183 57-61 72 68-35-11-19 21-25-20-22 18-5-24Z" fill="#fffdf8"/>
+<path d="M402 190 318 368M425 210l94 163M392 249 342 370" stroke="#55738d" stroke-width="2" fill="none"/>
+<path d="M0 393q200-34 420 0t380 0v187H0Z" fill="url(#lake)"/>
+<path d="M214 422h355m-318 22h286m-244 22h205m-145 22h85" stroke="#f7f4ed" stroke-width="2" opacity=".6"/>
+<path d="M0 465Q230 354 430 435t370 7v138H0Z" fill="#b0b8a1"/><path d="M-20 493q220-92 405-42t460-15" fill="none" stroke="#213f60" stroke-width="4"/>
+<path d="M0 504q220-92 405-42t460-15" fill="none" stroke="#213f60" stroke-width="2"/>
+<g transform="translate(181 366) rotate(7 200 80)"><path d="M17 40h345q37 0 69 49H8V56q0-16 9-16Z" fill="#fffdf8" stroke="#213f60" stroke-width="3"/><path d="M350 49h18q27 0 48 27h-53Z" fill="#213f60"/><path d="M10 80h402" stroke="#b64032" stroke-width="6"/>
+<g fill="#213f60"><rect x="30" y="51" width="34" height="18" rx="3"/><rect x="78" y="51" width="34" height="18" rx="3"/><rect x="125" y="51" width="34" height="18" rx="3"/><rect x="173" y="51" width="34" height="18" rx="3"/><rect x="220" y="51" width="34" height="18" rx="3"/><rect x="268" y="51" width="34" height="18" rx="3"/><circle cx="72" cy="94" r="9"/><circle cx="324" cy="94" r="9"/></g><path d="M165 40v49m142-49v49" stroke="#a7b4bf" stroke-width="2"/></g>
+<g fill="#213f60"><path d="m60 340 15-60 15 60Zm-8 16 23-55 23 55Zm628 30 18-80 19 80Zm-9 18 27-70 27 70Z"/><path d="M75 340v58m623-12v36" stroke="#213f60" stroke-width="5"/></g>
+</g><path d="M30 295V205Q30 25 210 25h380q180 0 180 180v170q0 180-180 180H210Q30 555 30 375Z" fill="none" stroke="#213f60" stroke-opacity=".2"/>
+<g fill="#213f60" font-family="Georgia,serif"><text x="65" y="555" font-size="12" letter-spacing="3">KANSAI — FUJI — TOKYO</text><text x="650" y="48" font-size="11" letter-spacing="2">NO. 07</text></g>
+</svg>

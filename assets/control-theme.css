@@ -1,0 +1,30 @@
+/* Complete destination-derived paint contract. Keep geometry in components.css. */
+:is(.btn:not(.alt):not(.food-action-search),.actions .btn:not(.alt):not(.food-action-search),.route-play,.route-preview-open,.food-content .food-actions .food-action-shop,.back-top){background:var(--accent)!important;border-color:var(--accent)!important;color:var(--on-accent)!important;box-shadow:none}
+:is(.btn.alt,.quicklinks a,.day-actions a,.food-content .food-actions .food-action-search,.hotel-map-link,[id=download]){background:var(--accent-soft)!important;border-color:var(--line)!important;color:var(--on-soft)!important;box-shadow:none}
+/* The historic hotel pill painted a second layer behind its own button. */
+.hotel-map-link::before{content:none!important;display:none!important;background:transparent!important;box-shadow:none!important}
+.day-tab{background:transparent!important;border-color:transparent!important;color:var(--ink)!important}
+.day-tab b{color:inherit!important}
+.day-tab[aria-selected=true],.mobile-bar-link[aria-current=location],.desktop-nav-link[aria-current=location]{background:var(--accent)!important;border-color:var(--accent)!important;color:var(--on-accent)!important}
+.mobile-bar-link,.desktop-nav-link{color:var(--nav-ink)!important}
+.food-content .food-more>summary,.food-section>summary,.stop-card[open] .stop-summary,.stop-card.key[open] .stop-summary{background:var(--accent-soft)!important;color:var(--on-soft)!important}
+.design-a .timeline .stop-summary .disclosure,.food-content .food-more>summary .food-disclosure{background:var(--accent-soft)!important;color:var(--on-soft)!important}
+.focus,.focus .eyebrow,.focus h2,.focus p,.focus a{color:var(--on-accent)!important}
+.focus .eyebrow:before{background:currentColor}
+.focus a{background:transparent!important;border-color:currentColor!important}
+.focus a:active,.focus a.is-pressing{background:var(--accent-pressed)!important;color:var(--on-accent-pressed)!important}
+:is(.btn:not(.alt):not(.food-action-search),.actions .btn:not(.alt):not(.food-action-search),.route-play,.route-preview-open,.food-content .food-actions .food-action-shop,.back-top):is(:active,.is-pressing):not(:disabled):not([aria-disabled=true]){background:var(--accent-pressed)!important;border-color:var(--accent-pressed)!important;color:var(--on-accent-pressed)!important}
+:is(.btn.alt,.quicklinks a,.day-actions a,.food-content .food-actions .food-action-search,.hotel-map-link,[id=download]):is(:active,.is-pressing):not(:disabled):not([aria-disabled=true]){background:var(--soft-pressed)!important;border-color:var(--line)!important;color:var(--on-soft-pressed)!important}
+:is(.mobile-bar-link,.desktop-nav-link,.day-tab):is(:active,.is-pressing):not(:disabled):not([aria-disabled=true]){background:var(--soft-pressed)!important;color:var(--on-soft-pressed)!important}
+:is(.mobile-bar-link[aria-current=location],.desktop-nav-link[aria-current=location],.day-tab[aria-selected=true]):is(:active,.is-pressing):not(:disabled):not([aria-disabled=true]){background:var(--accent-pressed)!important;color:var(--on-accent-pressed)!important}
+:is(.food-content .food-more>summary,.food-section>summary,.stop-summary,.order-more summary):is(:active,.is-pressing):not(:disabled):not([aria-disabled=true]){background:var(--soft-pressed)!important;color:var(--on-soft-pressed)!important}
+@media(hover:hover) and (pointer:fine){
+ :is(.btn:not(.alt):not(.food-action-search),.actions .btn:not(.alt):not(.food-action-search),.route-play,.route-preview-open,.food-content .food-actions .food-action-shop,.back-top):hover:not(:active):not(.is-pressing):not(:disabled):not([aria-disabled=true]){background:var(--accent-hover)!important;border-color:var(--accent-hover)!important;color:var(--on-accent-hover)!important}
+ :is(.btn.alt,.quicklinks a,.day-actions a,.food-content .food-actions .food-action-search,.hotel-map-link,[id=download]):hover:not(:active):not(.is-pressing):not(:disabled):not([aria-disabled=true]){background:var(--soft-hover)!important;color:var(--on-soft-hover)!important}
+ :is(.mobile-bar-link,.desktop-nav-link,.day-tab,.food-content .food-more>summary,.food-section>summary,.stop-summary,.order-more summary):hover:not(:active):not(.is-pressing):not(:disabled):not([aria-disabled=true]):not([aria-selected=true]):not([aria-current=location]){background:var(--soft-hover)!important;color:var(--on-soft-hover)!important}
+ :is(.mobile-bar-link[aria-current=location],.desktop-nav-link[aria-current=location],.day-tab[aria-selected=true]):hover:not(:active):not(.is-pressing):not(:disabled):not([aria-disabled=true]){background:var(--accent-hover)!important;color:var(--on-accent-hover)!important}
+ .focus a:hover:not(:active):not(.is-pressing):not(:disabled):not([aria-disabled=true]){background:var(--accent-hover)!important;color:var(--on-accent-hover)!important}
+}
+.day-tab:focus-visible,:is(a,button,summary,input):focus-visible,html.keyboard-focus summary:focus{outline:3px solid var(--focus-ring)!important;outline-offset:3px}
+:is(.actions .btn:not(.alt):not(.food-action-search),.food-content .food-actions .food-action-shop,.food-content .food-actions .food-action-search,button,a,summary):is(:disabled,[aria-disabled=true]){background:var(--disabled-surface)!important;border-color:var(--line)!important;color:var(--disabled-ink)!important;opacity:1!important;cursor:not-allowed;transform:none!important;box-shadow:none!important}
+::selection{background:var(--accent-soft);color:var(--on-soft)}

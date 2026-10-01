@@ -1,0 +1,10 @@
+#day-area,#days{overflow-anchor:none}.day-panel{transform:translate3d(0,0,0);min-width:0}
+.route-grid.short-itinerary .route-day{grid-template-areas:'day toggle' 'city city' 'brief brief'!important}
+.route-grid.long-itinerary .route-day{grid-template-areas:'day city toggle' 'brief brief brief'!important;row-gap:8px!important;flex:0 0 auto!important}
+.route-grid .route-summary{grid-area:brief;display:flex!important;align-items:flex-start;gap:10px;min-width:0;color:var(--muted);font-size:12px;line-height:1.7;text-align:left}
+.route-summary>div{min-width:0;flex:1}.route-summary .itinerary-icon{width:24px;height:24px;flex:none;color:var(--accent);margin-top:2px}
+.route-headline{display:block;font-size:13px;color:var(--ink);font-weight:650;line-height:1.6;overflow-wrap:anywhere}.route-brief{display:block;white-space:normal!important;overflow-wrap:anywhere}.route-state{display:inline-block;font-size:11px;color:var(--muted);margin-top:3px}
+.route-preview-summary{font-size:13px;line-height:1.8;color:var(--ink);overflow-wrap:anywhere;display:flex;gap:10px;align-items:flex-start;margin:10px 0}.route-preview-summary .itinerary-icon{width:24px;height:24px;flex:none;color:var(--accent)}
+@media(min-width:761px) and (max-width:1359px) and (orientation:portrait){.day-layout{grid-template-columns:minmax(0,1fr)!important;gap:28px}.food-section .food-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.food-section .food-card{display:block!important}.food-section .food-art img{height:180px!important}.food-content{padding:16px}.booking-grid{grid-template-columns:minmax(0,1fr)!important}}
+@media(min-width:761px) and (max-width:1359px) and (any-pointer:coarse){.mobile-bar-inner{max-width:500px}.day-tab{min-height:68px}.food-more>summary,.hotel-map-link,.btn{min-height:44px}}
+@media(prefers-reduced-motion:reduce){.day-panel{transform:none}.route-preview.is-entering{animation:none!important}}
