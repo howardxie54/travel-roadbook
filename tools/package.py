@@ -46,11 +46,11 @@ def main():
     out = ROOT / 'dist'
     out.mkdir(exist_ok=True)
     files = [p for p in ROOT.rglob('*') if p.is_file() and eligible(p)]
-    bundles = [('travel-roadbook-技能包.zip', [p for p in files if skill_file(p)]), ('travel-roadbook-GitHub源码.zip', files)]
+    bundles = [('travel-roadbook-skill.zip', [p for p in files if skill_file(p)]), ('travel-roadbook-source.zip', files)]
     hashes = []
     for name, paths in bundles:
         output = out / name
-        compact = name == 'travel-roadbook-技能包.zip'
+        compact = name == 'travel-roadbook-skill.zip'
         write_zip(output, paths, compact)
         digest = hashlib.sha256(output.read_bytes()).hexdigest()
         hashes.append(digest + '  ' + name)

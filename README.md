@@ -42,7 +42,7 @@
 
 ### Codex
 
-1. 下载本仓库，或下载 Release 中的 `travel-roadbook-技能包.zip`。
+1. 下载本仓库，或下载 Release 中的 `travel-roadbook-skill.zip`。
 2. 将 Skill 目录命名为 `travel-roadbook`，放到 `~/.codex/skills/`。Windows 对应 `%USERPROFILE%\.codex\skills\travel-roadbook\`。
 3. 确认 `SKILL.md`、`scripts/`、`references/`、`assets/` 在同一层。开启新对话；未出现时重启 Codex。
 
